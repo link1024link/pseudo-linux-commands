@@ -1,0 +1,49 @@
+# 実行ファイル
+linux_sim
+Linux_original
+syt_test
+
+# macOSの隠しファイル
+.DS_Store
+._*
+
+# デバッグシンボル
+*.dSYM/
+
+# オブジェクトファイル
+*.o
+*.obj
+
+# VS Codeの設定
+.vscode/
+
+# コンパイラ出力
+*.exe
+*.out
+*.app
+
+EDF
+EDF
+# 実行ファイル
+linux_sim
+Linux_original
+syt_test
+
+# macOSの隠しファイル
+.DS_Store
+._*
+
+# デバッグシンボル
+*.dSYM/
+
+# オブジェクトファイル
+*.o
+*.obj
+
+# VS Codeの設定
+.vscode/
+
+# コンパイラ出力
+*.exe
+*.out
+*.app

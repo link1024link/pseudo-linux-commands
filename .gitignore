@@ -47,3 +47,6 @@ syt_test
 *.exe
 *.out
 *.app
+syt_test.c
+index.html
+game.js

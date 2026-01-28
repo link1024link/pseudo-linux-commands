@@ -233,7 +233,6 @@ if (cwd->file_count >= MAX_FILES) {
 - [ ] 絶対パス指定の `cd` 対応
 - [ ] 動的配列によるファイル数上限の撤廃
 - [ ] `help` コマンドの追加
-- [ ] ソースコードの分割（Makefile対応）
 
 ---
 
@@ -253,14 +252,6 @@ if (cwd->file_count >= MAX_FILES) {
 
 ---
 
-## ライセンス
-
-このプロジェクトは学習目的で作成されました。  
-自由に使用・改変できます。
-
----
-
 ## 関連リンク
 
 - [ソースコード (linux-commands.c)](linux-commands.c)
-- [ライセンス (LICENSE)](LICENSE)
